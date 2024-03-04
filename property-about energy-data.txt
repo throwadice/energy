@@ -1,0 +1,16 @@
+for  each site id_0   
+the meter reading data  -date: 1.1-1.20(less than one month)   ,
+ almost all 0
+begin with site_id 105 has data   
+weather data-            date:1.1-12.31(a year)
+
+meter reading reflects the energy use for every hour 
+or culmative energy use 
+because if it is culmative energy use , there are many value drop ,which is very weired
+
+
+3333333
+no need to merge the three excel
+because there are too much repeated data
+some different building-id has same weather data
+because they belongs to same site-id
